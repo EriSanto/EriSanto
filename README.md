@@ -2,7 +2,6 @@ Olá! Eu sou Eriky Santos. Sejá muito bem-vindo! 😀
 
 
 ![Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=EriSantos&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EriSantos&layout=compact)](https://github.com/EriSantos/github-readme-stats)
 
 Tecnologias que uso no meu dia
